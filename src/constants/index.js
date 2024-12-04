@@ -112,7 +112,7 @@ export const myProjects = [
         subdesc:
             'Using Python, OpenCV, and Keras, a proof of concept was built to achieve a predefined tolerance level of defects (maximum 3% false positives). This project demonstrated the feasibility of applying AI to automated quality control processes in an industrial setting, enhancing product reliability.',
         href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
-        texture: '/textures/project/project3.mp4',
+        texture: '/textures/project/project5.mp4',
         logo: '/assets/Saverglass-Logo.png',
         logoStyle: {
 
