@@ -36,7 +36,7 @@ export const clientReviews = [
         position: 'professeur des universités',
         img: 'assets/unknown.jpg',
         review:
-            'Mohamed Amine\'s expertise in control systems and automation is truly impressive. He delivered sophisticated solutions for autonomous vehicle control and industrial robotics, demonstrating exceptional technical skills in Matlab, Simulink, and robotic programming. Fantastic engineering!',
+            'Mohamed Amine is a dedicated, committed and serious student. He has been working hard on his project and achieved great result demonstrating his technical skills in Matlab, Simulink, and Artificial Intelligence!',
     },
 ];
 
