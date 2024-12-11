@@ -36,7 +36,7 @@ export const clientReviews = [
         position: 'professeur des universités',
         img: 'assets/unknown.jpg',
         review:
-            'Mohamed Amine\'s expertise in control systems and automation is truly impressive. He delivered sophisticated solutions for autonomous vehicle control and industrial robotics, demonstrating exceptional technical skills in Matlab, Simulink, and robotic programming. Fantastic engineering!',
+            'Mohamed Amine is a dedicated, committed and serious student. He has been working hard on his project and achieved great result demonstrating his technical skills in Matlab, Simulink, and Artificial Intelligence!',
     },
 ];
 
@@ -107,12 +107,39 @@ export const myProjects = [
         ],
     },
     {
+        title: 'Intelligent Rehabilitation Orthesis - I2A Health Technologies',
+        desc: 'Development of a Smart Lower Limb Orthesis for Rehabilitation Simulation and Patient Safety',
+        subdesc:
+            'Using MATLAB, Simulink, and Advanced Control Theory, a proof of concept was built to develop a controllable lower limb orthesis with sophisticated control methodologies including Linear Matrix Inequalities (LMIs), Lyapunov Stability Analysis, and Unknown Input Observers. The project demonstrated the feasibility of applying advanced control techniques to medical rehabilitation devices, enhancing patient safety and movement precision.',
+        href: null,
+        texture: '/textures/project/project4.mp4',
+        logo: '/assets/Matlab_Logo.png',
+        logoStyle: {
+            backgroundColor: '#2A1816',
+            border: '0.2px solid #36201D',
+            boxShadow: '0px 0px 60px 0px #AA3C304D',
+        },
+        spotlight: '/assets/spotlight2.png',
+        tags: [
+            {
+                id: 1,
+                name: 'MATLAB',
+                path: '/assets/Matlab_Logo.png',
+            },
+            {
+                id: 2,
+                name: 'Simulink',
+                path: 'assets/Simulink_Logo.png',
+            },
+        ],
+    },
+    {
         title: 'AI-Based Quality Control - SAVERGLASS',
         desc: 'Development of an AI-driven solution for defect detection aimed at reducing production defects and ensuring quality standards.',
         subdesc:
             'Using Python, OpenCV, and Keras, a proof of concept was built to achieve a predefined tolerance level of defects (maximum 3% false positives). This project demonstrated the feasibility of applying AI to automated quality control processes in an industrial setting, enhancing product reliability.',
         href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
-        texture: '/textures/project/project5.mp4',
+        texture: '/textures/project/project3.mp4',
         logo: '/assets/Saverglass-Logo.png',
         logoStyle: {
 
